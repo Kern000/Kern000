@@ -65,6 +65,6 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 </li>
 <p></p>
   <li>
-    <a href="https://github.com/Kern000/mini-python-customer-service-options"> Git Hub Page </a>
+    <a href="https://github.com/Kern000/mini-python-customer-service-options"> Github Page </a>
 </li>
 </ul>
