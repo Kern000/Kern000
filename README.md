@@ -7,12 +7,15 @@
   <li>
     Picked up coding to enhance the 'executive branch' of my capabilities. In my previous job, I performed people facing work on a daily basis, including presentation, mediation, reporting, and persuasion. I believe coding can become a force multipler on my skillset to drive valuable solutions.
   </li>
+  <p></p>
   <li>
     Currently pursuing a tech career where I may contribute with my tech stacks. My stacks are the MERN Full Stack - Mongo/MySQL, Express, React, NodeJs. Some of these are micro frameworks whose logics can be more easily transferred to an organization's choice of framework, whether it is Angular, Vue, or .net. Through extracurriculums in my Full Stack Bootcamp, I have also developed intermediate skills in Python and Leaflet Map, and basic skills in React Native for mobile application development.
   </li>
+  <p></p>
   <li>
     Lastly, my self-development aspiration for the next ten years is to become proficient in creating an improved Artificial Intelligence model, building an AI that is more powerful than the current generation Generative AI. 
   </li>
+  <p></p>
 </ul>
 <h2> Executive Summary of Portfolio Projects </h2>
 <h4> White Label Mobile Application for event listening </h4>
