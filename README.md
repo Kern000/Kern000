@@ -26,7 +26,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
   </li>
 <p></p>
   <li>
-  Used React, React Native, Express, Mongoose Schema, MongoDB, Regex, Stack Navigator, FireBase JWT Authentication, React Functional Programming Hooks
+  Tech Used: React, React Native, Express, Mongoose Schema, MongoDB, Regex, Stack Navigator, FireBase JWT Authentication, React Functional Programming Hooks
   </li>
 <p></p>
   <li>
@@ -42,7 +42,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 </li>
 <p></p>
   <li>
-  Used Javascript, Leaflet, Cheerios (web scrape), FS (for File management)
+  Tech Used: Javascript, Leaflet, Cheerios (web scrape), FS (for File management)
 </li>
 <p></p>
   <li>
@@ -61,7 +61,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 </li>
 <p></p>
   <li>
-  Used: PyTest, PyInstaller, Python, Regex, JSON package
+  Tech Used: PyTest, PyInstaller, Python, Regex, JSON package
 </li>
 <p></p>
   <li>
