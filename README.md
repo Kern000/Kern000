@@ -44,7 +44,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
   Used Javascript, Leaflet, Cheerios (web scrape), FS (for File management)
 </li>
 <p></p>
-<  li>
+  <li>
   <a href="https://github.com/Kern000/project-one"> Github Source Code </a>
 </li>
   <li>
