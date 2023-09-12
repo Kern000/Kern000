@@ -15,11 +15,15 @@
 </ul>
 <h2> Portfolio of Projects </h2>
 <h4> White Label Mobile Application for event listening </h4>
+
+<ul>
+<li>
 Developed an almost 'plug and play' mobile application for Android (should also work with iOS but not tested) under the skin of a 'scam call blocker'. Users may quickly build a desired event managment, app state management, and action store on top of my mobile application, interacting with a Mongo Database in a 'restful' manner to utilize the data intercepted on those events. Potential application includes managing scam calls coming in, authorizing investment trade signals, or investigating into errors highlighted in the production lines and more. All these imply real time productivity and management of important business events on one's mobile phone.
-
-<a href="https://github.com/Kern000/projectTwoFrontEnd-ReactNative" />
-
-
+</li>
+<li>
+<a href="https://github.com/Kern000/projectTwoFrontEnd-ReactNative" /> Github link to access Expo QR code to view project
+</li>
+</ul>
 
 
 
