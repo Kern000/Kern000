@@ -46,7 +46,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 </li>
 <p></p>
   <li>
-  <a href="https://github.com/Kern000/project-one"> Github Source Code </a>
+  <a href="https://github.com/Kern000/project-one"> Github Page </a>
 </li>
   <li>
   <a href="https://kern000.github.io/"> Live Page Link </a>
