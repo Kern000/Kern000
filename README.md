@@ -5,7 +5,7 @@
   </li>
   <p></p>
   <li>
-    Picked up coding to enhance the 'executive branch' of my capabilities. In my previous job, I performed people facing work on a daily basis, including presentation, mediation, reporting, and persuasion. I believe coding can become a force multipler on my skillset to drive valuable solutions.
+    Picked up coding to enhance the 'executive branch' of my capabilities. In my previous job, I performed people-facing work on a daily basis, including presentation, mediation, reporting, and persuasion. I believe coding can become a force multipler on my skillset to drive valuable solutions.
   </li>
   <p></p>
   <li>
