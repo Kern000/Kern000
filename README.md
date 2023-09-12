@@ -57,7 +57,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 <h4> Python Customer Service System - 2023</h4>
 <ul>
   <li>
-  Command Line Interface .exe program that allows user to add or import customer information, modify it, and save to a file. Users navigate seamless through the program interface using single number choices and simple y/n branch choices. Data validation is employed along with error catching and recursive functional programming to create seamless program navigation that does not break on user mistakes in data entry (user is re-prompted to key in correct information).  
+  Command Line Interface .exe program that allows user to add or import customer information, modify it, and save to a file. Users navigate seamless through the program interface using single number choices and simple y/n branch choices. Data validation is employed along with error catching and recursive functional programming to create seamless program navigation that does not break on user mistakes in data entry (user is re-prompted to key in correct information, confirm information, and redirected as needed).  
 </li>
 <p></p>
   <li>
