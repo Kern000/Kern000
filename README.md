@@ -2,6 +2,7 @@
 <ul>
   <li>
     Finance, Literary, and Investigations background. Performed a decade's worth of exploratory research into the science of Human Development as well as organizational studies. My strength is my extensive knowledge on how human beings grow and develop capabilities, and how organizations thrive - a cross disciplinary expertise few has achieved. This is accompanied by the knowledge obtained through a Bachelor's degree in Business Administration, with a Banking and Finance specialization.
+    <br>
   </li>
   <li>
     Picked up coding to enhance the 'executive branch' of my capabilities. In my previous job, I performed people facing work on a daily basis, including presentation, mediation, reporting, and persuasion. I believe coding can become a force multipler on my skillset to drive valuable solutions.
