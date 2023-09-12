@@ -30,7 +30,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
   </li>
 <p></p>
   <li>
-<a href="https://github.com/Kern000/projectTwoFrontEnd-ReactNative" /> Github link to access Expo QR code to view project
+<a href="https://github.com/Kern000/projectTwoFrontEnd-ReactNative/blob/master/README.md" /> Github link to access Expo QR code to view project
   </li>
 </ul>
 <p></p>
