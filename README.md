@@ -26,23 +26,42 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 </li>
 <p></p>
 <li>
+  Used React, React Native, Express, Mongoose Schema, MongoDB, Regex, Stack Navigator, FireBase JWT Authentication, React Functional Programming Hooks
+</li>
+<p></p>
+<li>
 <a href="https://github.com/Kern000/projectTwoFrontEnd-ReactNative" /> Github link to access Expo QR code to view project
 </li>
 </ul>
 <p></p>
 
-<h4> Map Application: The Food Critic </h4>
+<h4> Map Application: The Food Critic - 2023 </h4>
 <li>
-  Built a mobile responsive Leaflet web-browser application that allows user to geolocate and look at food critics' picks of top hawker foods in the area. This application allows users to use a random engine to pick at random, critics' pick on the desired zoom level or geolocation - as such, the application displays understanding on the usage of marker layers and manipulation of markers using javascript. Search engine employs a dual layer API calling on Foursquare and Leaflet's geo Search. All critics entries on the map were ethically web-scrapped (HTML only, with time intervals, and highly targeted on specific data).
+  Mobile responsive Leaflet web-browser application that allows user to geolocate and look at food critics' picks of top hawker foods in the area. Users can use a random engine to pick at random, critics' pick on the users' desired zoom level or geolocation. Application displays understanding on the usage of marker layers and manipulation using javascript. Search engine employs a dual layer API, calling either Foursquare or Leaflet geo Search. All critics entries on the map were ethically web-scrapped (HTML only, with time intervals, and highly targeted on specific data).
+</li>
+<p></p>
+<li>
+  Used Javascript, Leaflet, Cheerios (web scrape), FS (for File management)
 </li>
 <p></p>
 <li>
   <a href="https://github.com/Kern000/project-one"> Github Source Code </a>
 </li>
 <li>
-  <a href="https://kern000.github.io/"> Live Link </a>
+  <a href="https://kern000.github.io/"> Live Page Link </a>
 </li>
+<p></p>
 
-
-
+<h4> Python Customer Service System </h4>
+<li>
+  Command Line Interface .exe program that allows user to add or import customer information, modify it, and save to a file. Users navigate seamless through the program interface using single number choices and simple y/n branch choices. Data validation is employed along with error catching and recursive functional programming to create seamless program navigation that does not break on user mistakes in data entry (user is re-prompted to key in correct information).  
+</li>
+<p></p>
+<li>
+  Used: PyTest, PyInstaller, Python, Regex, JSON package
+</li>
+<p></p>
+<li>
+    <a href="https://github.com/Kern000/mini-python-customer-service-options"> Git Hub Page </a>
+</li>
 
