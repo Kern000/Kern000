@@ -30,7 +30,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
   </li>
 <p></p>
   <li>
-<a href="https://github.com/Kern000/projectTwoFrontEnd-ReactNative/blob/master/README.md" /> Github link to access Expo QR code to view project
+<a href="https://github.com/Kern000/projectTwoFrontEnd-ReactNative/blob/master/README.md" target="_blank"/> Github link to access Expo QR code to view project
   </li>
 </ul>
 <p></p>
@@ -46,10 +46,10 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 </li>
 <p></p>
   <li>
-  <a href="https://github.com/Kern000/project-one"> Github Page </a>
+  <a href="https://github.com/Kern000/project-one" target="_blank"> Github Page </a>
 </li>
   <li>
-  <a href="https://kern000.github.io/"> Live Page Link </a>
+  <a href="https://kern000.github.io/" target="_blank"> Live Page Link </a>
 </li>
 <p></p>
 </ul>
@@ -65,6 +65,6 @@ Developed an almost 'plug and play' React Native mobile application for Android 
 </li>
 <p></p>
   <li>
-    <a href="https://github.com/Kern000/mini-python-customer-service-options"> Github Page </a>
+    <a href="https://github.com/Kern000/mini-python-customer-service-options" target="_blank"> Github Page </a>
 </li>
 </ul>
