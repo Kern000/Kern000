@@ -13,7 +13,7 @@
   </li>
   <p></p>
   <li>
-    My self-development aspiration for the next ten years is to become proficient in creating an improved Artificial Intelligence model, building an AI that is more powerful than the current generation of Generative AI. 
+    My self-development aspiration for the next ten years is to continue building my tech development skills, including deep-tech, to craft valuable solutions through conventional tech and AI. 
   </li>
   <p></p>
 </ul>
