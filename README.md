@@ -30,13 +30,13 @@ Developed a mobile responsive web application that provides e-commerce capabilit
   </li>
 <p></p>
   <li>
-    <a href="https://singular-jalebi-389fbc.netlify.app/#/"> Link to live website here. Enjoy! </a>
+    <a href="https://singular-jalebi-389fbc.netlify.app/#/"> Link to live website. Enjoy! </a>
   </li>
   <li>
-    <a href="https://github.com/Kern000/proj3-frontend"> Link to frontend repo here </a>
+    <a href="https://github.com/Kern000/proj3-frontend"> Frontend repo </a>
   </li>
   <li>
-  <a href="https://github.com/Kern000/project-three-backend"> Link to backend repo here </a>
+  <a href="https://github.com/Kern000/project-three-backend"> Backend repo </a>
   </li>
 </ul>
 <h4> White Label Mobile Application for event listening - 2023 </h4>
