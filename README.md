@@ -18,6 +18,23 @@
   <p></p>
 </ul>
 <h2> Executive Summary of Portfolio Projects </h2>
+<h4> Writers' base e-commerce shop and marketplace </h4>
+
+<ul>
+  <li>
+Developed a mobile responsive web application that provides e-commerce capabilities for an admin user to post products as well as for public users to list products for sale. It is basically carousell for writers. Built in three and a half weeks.
+  </li>
+  <p></p>
+  <li>
+    <a href="https://singular-jalebi-389fbc.netlify.app/#/"> Link to live website here. Enjoy! </a>
+  </li>
+  <li>
+    <a href="https://github.com/Kern000/proj3-frontend"> Link to frontend repo here </a>
+  </li>
+  <li>
+  <a href="https://github.com/Kern000/project-three-backend"> Link to backend repo here </a>
+  </li>
+</ul>
 <h4> White Label Mobile Application for event listening - 2023 </h4>
 
 <ul>
