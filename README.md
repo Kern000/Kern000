@@ -22,9 +22,13 @@
 
 <ul>
   <li>
-Developed a mobile responsive web application that provides e-commerce capabilities for an admin user to post products as well as for public users to list products for sale. It is basically carousell for writers. Built in three and a half weeks.
+Developed a mobile responsive web application that provides e-commerce capabilities for an admin user to post products as well as for public users to list products for sale. It is basically carousell for writers. Frontend React, backend server, backend admin system, all built in three and a half weeks.
   </li>
-  <p></p>
+<p></p>
+  <li>
+  Tech Used: React functional programming hooks, React-dotenv, Stripe React, axios, Express, Db-migrate, bookshelf model with knex methods, MySQL/Postgres, Cloudinary Image upload and sanitization, Caolan forms, handlebars server-side templating engine, sessions, csurf, JWT Authentication, regex validation.
+  </li>
+<p></p>
   <li>
     <a href="https://singular-jalebi-389fbc.netlify.app/#/"> Link to live website here. Enjoy! </a>
   </li>
