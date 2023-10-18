@@ -9,7 +9,7 @@
   </li>
   <p></p>
   <li>
-    Currently pursuing a tech career where I may contribute with my tech stacks. My stacks are the MERN Full Stack - Mongo/MySQL, Express, React, NodeJs. Some of these are micro frameworks with logics that can be more easily transferred to an organization's choice of framework, whether it is Angular, Vue, or .Net. Through extracurriculums in my Full Stack Bootcamp, I have also developed intermediate skills in Python and Leaflet Map, and basic skills in React Native for mobile application development (or progressive web development).
+    Currently pursuing a tech career where I may contribute with my tech stacks. My stacks are the MERN Full Stack - Mongo/MySQL, Express, React, NodeJs. Some of these are micro frameworks with logics that can be transferrable to an organization's choice of framework, whether it is Angular, Vue, or .Net. Through extracurriculums in my Full Stack Bootcamp, I have also developed intermediate skills in Python and Leaflet Map, and basic skills in React Native for mobile application development (or progressive web development).
   </li>
   <p></p>
   <li>
