@@ -33,7 +33,7 @@ Developed a mobile responsive web application that provides e-commerce capabilit
     <a href="https://singular-jalebi-389fbc.netlify.app/#/"> Link to live website. Enjoy! (Give it a little loading time due to free servers :)) </a>
   </li>
   <li>
-    <a href="https://github.com/Kern000/proj3-frontend"> Frontend repo </a>
+    <a href="https://github.com/Kern000/proj3-frontend"> Frontend repo (with screenshots for faster viewing) </a>
   </li>
   <li>
   <a href="https://github.com/Kern000/project-three-backend"> Backend repo </a>
