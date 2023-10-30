@@ -55,7 +55,7 @@ Backend was also an interesting experiment on the 'factory' method in creating r
   </li>
 <p></p>
   <li>
-  Tech Used: React, React Native, Express, Mongoose Model and aggregation pipeline, MongoDB, Regex, Stack Navigator, FireBase JWT Authentication, React Functional Programming Hooks, JOI middleware validation
+  Tech Used: React, React Native, Express, Mongoose Model, Mongo aggregation pipeline, MongoDB, Regex, Stack Navigator, FireBase JWT Authentication, React Functional Programming Hooks, JOI middleware validation
   </li>
 <p></p>
   <li>
