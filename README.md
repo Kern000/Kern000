@@ -13,7 +13,11 @@
   </li>
   <p></p>
   <li>
-    My self-development aspiration for the next ten years is to continue building my tech development skills, including deep-tech, to craft valuable solutions through conventional tech and AI. 
+    My self-development aspiration for the next ten years is to continue building my tech development skills, including in deep-tech, to craft valuable solutions through Full Stack frameworks and possibly AI.
+  </li>
+  <p></p>
+    <li>
+    In terms of OOP (React js), I am a big believer in SOLID principles. The resulting clean and scalable codes are very appealing. When classes take on a single responsibility, and the application of those classes extend but do not modify those codes, and subordinate classes are logical offsprings, code becomes that much more descriptive and consistent.
   </li>
   <p></p>
 </ul>
