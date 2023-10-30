@@ -67,7 +67,7 @@ Backend was also an interesting experiment on the 'factory' method in creating r
 <h4> Map Application: The Food Critic - 2023 </h4>
 <ul>
   <li>
-  This is a mobile responsive Leaflet web-browser application that allows user to geolocate and look at food critics' picks of top hawker foods in the area. Users can use a random engine to pick a critic's pick that are based on the users' desired zoom level or geolocation. Application displays understanding on the usage of marker layers and manipulation using javascript. 
+  This is a mobile responsive Leaflet web-browser application that allows user to geolocate and look at food critics' picks of top hawker foods in the area. Users can use a random engine to pick a critic's review base on the users' desired zoom level or geolocation. Application displays understanding on the usage of marker layers and manipulation using javascript. 
 </li>
 <p></p>
   <li>
