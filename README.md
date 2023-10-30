@@ -17,7 +17,7 @@
   </li>
   <p></p>
     <li>
-    In terms of OOP (React js), I am a fervent believer in SOLID principles. The resulting clean and scalable codes are very appealing. When classes take on a single responsibility, and the application of those classes extends but do not modify those codes, and subordinate classes are logical offsprings, code becomes that much more descriptive and consistent.
+    In terms of OOP (React js), I am a fervent believer in SOLID principles. When classes take on a single responsibility, and the application of those classes extends but do not modify those codes, and subordinate classes are logical offsprings, code becomes that much more descriptive and consistent. The resulting clean and scalable codes are very appealing. 
   </li>
   <p></p>
 </ul>
