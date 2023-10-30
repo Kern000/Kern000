@@ -1,7 +1,7 @@
 <h2>Full Stack Developer</h2>
 <ul>
   <li>
-    Finance, Literary, and Investigations background. Performed a decade's worth of exploratory research into the science of Human Development as well as organizational studies. My strength is my extensive knowledge on how human beings grow and develop capabilities, and how life institutions thrive - a cross disciplinary expertise that could add intangible value. This is accompanied by Finance knowledge obtained through a Bachelor's degree in Business Administration, Banking and Finance specialization.
+    Finance, Literary, and Investigations background. Performed a decade's worth of exploratory research into the science of Human Development as well as organizational studies. My strength is my extensive knowledge on how human beings grow and develop capabilities, and how life institutions thrive - a cross disciplinary expertise that adds many 'soft' knowledge when value-adding. This is accompanied by Finance knowledge obtained through a Bachelor's degree in Business Administration, Banking and Finance specialization.
   </li>
   <p></p>
   <li>
