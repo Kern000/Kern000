@@ -51,7 +51,7 @@ Developed an almost 'plug and play' React Native mobile application for Android 
   </li>
 <p></p>
 <li>
-Backend was also an interesting experiment on the 'factory' method in creating restful endpoints. This method allows unchanging codes in server even when database expands in scope due to expanding business needs.
+Backend was also an interesting experiment on the 'factory' method in creating restful endpoints. This method allows unchanging codes in the server even when database expands in scope due to expanding business needs.
   </li>
 <p></p>
   <li>
