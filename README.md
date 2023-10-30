@@ -47,11 +47,11 @@ Developed a mobile responsive web application that provides e-commerce capabilit
 
 <ul>
   <li>
-Developed an almost 'plug and play' React Native mobile application for Android (should also work with iOS but not tested) under the skin of a 'scam call blocker'. Users may quickly build a desired event management, app state management, and action store on top of my mobile application, interacting with a Mongo Database in a 'restful' manner to utilize the data intercepted on those events. Potential application includes managing scam calls coming in, authorizing investment trade signals, or investigating into errors highlighted in the production lines and more. All these imply real time productivity and management of important business events on one's mobile phone.
+Developed an almost 'plug and play' React Native mobile application for Android (should also work with iOS but not tested) under the skin of a 'scam call blocker'. Users may quickly build a desired event management, app state management, and action store on top of my mobile application, interacting with a Mongo Database in a 'restful' manner to utilize the data intercepted on those events. Potential application includes managing incoming scam calls, authorizing investment trade signals, or investigating into errors highlighted in the production lines and more - possible productivity on a mobile phone. Backend was also an interesting experiment on the 'factory' method in creating restful endpoints.
   </li>
 <p></p>
   <li>
-  Tech Used: React, React Native, Express, Mongoose Schema, MongoDB, Regex, Stack Navigator, FireBase JWT Authentication, React Functional Programming Hooks
+  Tech Used: React, React Native, Express, Mongoose Model and aggregation pipeline, MongoDB, Regex, Stack Navigator, FireBase JWT Authentication, React Functional Programming Hooks, JOI middleware validation
   </li>
 <p></p>
   <li>
