@@ -36,7 +36,7 @@ Developed a mobile responsive web application that provides e-commerce capabilit
     <a href="https://github.com/Kern000/proj3-frontend"> Frontend repo (with screenshots for faster viewing) </a>
   </li>
   <li>
-  <a href="https://github.com/Kern000/project-three-backend"> Backend repo </a>
+  <a href="https://github.com/Kern000/project-three-backend"> Backend repo (showcases backend templating engine) </a>
   </li>
 </ul>
 <h4> White Label Mobile Application for event listening - 2023 </h4>
