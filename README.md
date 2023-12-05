@@ -20,6 +20,8 @@
     In terms of OOP, I am a believer in SOLID principles. When classes take on a single responsibility, and the application of those classes extends but do not modify those codes, and subordinate classes are logical offsprings, code becomes that much more descriptive and consistent. The resulting clean and scalable codes are very appealing. However, admittedly, I am still working on applying it when I do it in React Js, and JavaScript OOP advance data structures. By nature of language design, I still find Java to be the most intuitive when it comes to SOLID principles.
   </li>
   <p></p>
+  <p></p>
+  <li> Future languages I will be looking at on the immediate timeframe: Java server side technologies like Spring, C++ (backend script, for multi-threading and parallerization, since JS is single threaded and I do not know much at the moment of threading for optimization. But since everything runs on OS, I see much value expanding in this direction) </li>
 </ul>
 <h2> Executive Summary of Portfolio Projects </h2>
 <h4> Writers' base e-commerce shop and marketplace </h4>
