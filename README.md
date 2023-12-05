@@ -17,7 +17,7 @@
   </li>
   <p></p>
     <li>
-    In terms of OOP (React js), I am a fervent believer in SOLID principles. When classes take on a single responsibility, and the application of those classes extends but do not modify those codes, and subordinate classes are logical offsprings, code becomes that much more descriptive and consistent. The resulting clean and scalable codes are very appealing. 
+    In terms of OOP, I am a believer in SOLID principles. When classes take on a single responsibility, and the application of those classes extends but do not modify those codes, and subordinate classes are logical offsprings, code becomes that much more descriptive and consistent. The resulting clean and scalable codes are very appealing. However, admittedly, I am still working on applying it when I do it in React Js, and JavaScript OOP advance data structures. By nature of language design, I still find Java to be the most intuitive when it comes to SOLID principles.
   </li>
   <p></p>
 </ul>
