@@ -21,7 +21,7 @@
   </li>
   <p></p>
   <p></p>
-  <li> Priority languages I will be looking at on the intermediate timeframe: Java server side technologies like Spring, and C++ (backend script, for multi-threading and parallerization, since JS is single threaded and uses asynchronous techniques to reduce blocking, I do not know much at the moment of threading for optimization. But since everything runs on OS, I see much value expanding in this direction) </li>
+  <li> Priority languages I will be looking at on the intermediate timeframe: Java server side technologies like Spring, and C++ (backend script, for multi-threading and parallerization, since JS is single threaded and uses asynchronous techniques to reduce blocking, I do not know at the moment how to effectively use multi-threading for optimization. But since everything runs on OS, I see much value expanding in this direction.) </li>
 </ul>
 <h2> Executive Summary of Portfolio Projects </h2>
 <h4> Writers' base e-commerce shop and marketplace </h4>
