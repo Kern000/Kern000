@@ -1,7 +1,7 @@
 <h2>Full Stack Developer</h2>
 <ul>
   <li>
-    <p> Check out my latest 4-day Sprint. Understood and coded out OOP and functions for a number of advance data structures and algorithm, including Dijkstra Algorithm, Binary Trees, and Heaps. Modules can be imported by pulling this folder to your project. <a href="https://github.com/Kern000/advance-data-structures" target="_blank"> Link to repo is here </a> </p>
+    <p> Check out my latest 4-day Sprint here. Understood and coded out OOP and functions for a number of advance data structures and algorithm, including Dijkstra Algorithm, Binary Trees, and Heaps. Modules can be imported by pulling this folder to your project. <a href="https://github.com/Kern000/advance-data-structures" target="_blank"> Link to repo is here </a> </p>
     
   </li>
   <p></p>
