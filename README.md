@@ -20,7 +20,7 @@
 
 <ul>
   <li>
-Developed a mobile responsive web application that provides e-commerce capabilities for an admin user to post products, as well as for public users to list products for sale. It is basically the carousell / pivix app for writers. The frontend React, backend server, and backend admin system were all built in three weeks.
+Developed a mobile responsive web application that provides e-commerce capabilities for an admin user to post products, as well as for public users to list products for sale. It is basically the carousell / pivix app for writers. The frontend React, backend server, database modeling, and backend admin system were all built in three weeks.
   </li>
 <p></p>
   <li>
