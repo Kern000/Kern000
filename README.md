@@ -6,7 +6,7 @@
   </li>
   <p></p>
   <li>
-    Finance, Literary, and Investigations background. Performed exploratory research into the science of Human Development as well as organizational studies. My strength is my extensive knowledge on how human beings grow and develop capabilities, and how life institutions thrive. This is accompanied by Finance knowledge obtained through a Bachelor's degree in Business Administration, Banking and Finance specialization.
+    Finance, Literary, and Investigations background. Performed exploratory research into the science of Human Development as well as organizational studies. My strength includes my extensive knowledge on how human beings grow and develop capabilities, and how life institutions thrive. This is accompanied by Finance knowledge obtained through a Bachelor's degree in Business Administration, Banking and Finance specialization.
   </li>
   <p></p>
   <li>
