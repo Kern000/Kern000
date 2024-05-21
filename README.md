@@ -10,16 +10,9 @@
   </li>
   <p></p>
   <li>
-    Picked up coding to enable the creation of valuable tech solutions. In my previous job, I performed people-facing work on a daily basis, including presentation, mediation, reporting, and persuasion. I believe coding can become a force multipler on my skillset to drive valuable solutions.
+    Picked up coding to enable the creation of valuable tech solutions. In my previous job, I performed people-facing work on a daily basis, including presentation, mediation, reporting, and persuasion. Coding has now become a force multipler on my skillset to drive valuable solutions.
   </li>
   <p></p>
-  <li>
-    Currently pursuing a tech career where I may contribute with my tech stacks. My stacks are the MERN Full Stack - Mongo/MySQL, Express, React, NodeJs. And through extracurriculums in my Full Stack Bootcamp, I have also developed intermediate skills in Python and Leaflet Map, and basic skills in React Native for mobile application development (or progressive web development).
-  </li>
-  <p></p>
-  <li>
-    My self-development aspiration for the next ten years is to continue building my tech development skills, including in deep-tech, to craft valuable solutions.
-  </li>
   <p></p>
     </ul>
 <h2> Executive Summary of Portfolio Projects </h2>
