@@ -28,7 +28,7 @@ Developed a mobile responsive web application that provides e-commerce capabilit
   </li>
 <p></p>
   <li>
-    <a href="https://singular-jalebi-389fbc.netlify.app/#/"> Link to live website. Enjoy! (Give it 50s database startup time due to free cloud servers :)) </a>
+    <h4> Due to changes in Render Database and Cloudinary policy, the live site will no longer be active. At a future date, migrations may be made to another db and image hosting </h4>
   </li>
   <li>
     <a href="https://github.com/Kern000/proj3-frontend"> Frontend repo (site UI/UX navigation screenshots for faster viewing) </a>
